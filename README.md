@@ -34,7 +34,7 @@ To run the code in this repository, you can clone the repository and open the Ju
 
 This project uses two datasets:
 - Global Terrorism Database: The GTD is available for download on Kaggle at https://www.kaggle.com/datasets/START-UMD/gtd. The dataset contains information on over 200,000 terrorist attacks from around the world. The data is provided in CSV format and includes information on the location, date, type, and severity of the attack, as well as details on the perpetrators and targets.
-- Natural Earth Cultural Vectors: This dataset is used to create maps in the project. It can be downloaded from https://www.naturalearthdata.com/downloads/50m-cultural-vectors/.
+
 
 ## Contributing
 
