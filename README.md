@@ -42,7 +42,7 @@ This project is open for contributions. If you find any bugs or issues, please o
 
 ## Credits
 
-This project was created by [your name here]. The GTD dataset is maintained by the National Consortium for the Study of Terrorism and Responses to Terrorism (START) at the University of Maryland. The Natural Earth Cultural Vectors dataset is provided by Natural Earth.
+This project was created by Jelle Wierenga. The GTD dataset is maintained by the National Consortium for the Study of Terrorism and Responses to Terrorism (START) at the University of Maryland. The Natural Earth Cultural Vectors dataset is provided by Natural Earth.
 
 ## License
 
